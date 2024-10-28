@@ -1,5 +1,4 @@
 # Retail Analytics Dashboard
-Overview
 This Power BI dashboard provides a comprehensive overview of retail performance metrics with a yellow and white color scheme that matches Blinkit's branding.
 ## Key Metrics
 
